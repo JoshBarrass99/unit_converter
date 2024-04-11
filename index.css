@@ -69,6 +69,10 @@ button {
     font-weight: 400;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 #lower {
     width: 550px;
     height: 420px;
